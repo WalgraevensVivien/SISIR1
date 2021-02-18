@@ -1,0 +1,15 @@
+<HTML>
+
+	<HEAD>
+
+		<TITLE>Affichage de l'heure</TITLE>
+
+	</HEAD>
+
+	<BODY>
+
+		Bonjour.
+
+	</BODY>
+
+</HTML>
