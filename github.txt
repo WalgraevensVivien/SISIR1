@@ -1,14 +1,15 @@
+<Docdyte html>
 <HTML>
 
 	<HEAD>
 
-		<TITLE>Affichage de l'heure</TITLE>
+		<Title>Bonjour</Title>
 
 	</HEAD>
 
 	<BODY>
 
-		Bonjour.
+		<p>Bonjour, Test.</p>
 
 	</BODY>
 
